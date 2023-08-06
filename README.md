@@ -4,10 +4,6 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
-
-[Live Report Link](https://www.novypro.com/project/business-insights-360-6)
-
 ## Tools Used
 
 - SQL
@@ -119,17 +115,34 @@ In Home view, all the views button will be available. User will land on specific
 - Stakeholder Request
 - Support
 
-Home page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Home.png)
+Home page View 
 
-Executive page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Executive%20view.png)
+![image](https://github.com/Subham1845/Business-Insights-360/assets/63052365/d549f4a5-85f1-4ae5-b68c-216224af10b9)
 
-Finance page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Finance%20view.png)
 
-Marketing page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Marketing%20view.png)
+Executive page View
 
-Sales page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Sales%20View.png)
+![image](https://github.com/Subham1845/Business-Insights-360/assets/63052365/8f75fe3d-146e-41dc-bbb3-8b3847da7d80)
 
-Supply Chain page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Supply%20Chain%20view.png)
+Finance page View 
+
+![image](https://github.com/Subham1845/Business-Insights-360/assets/63052365/1b65ff15-0f56-4905-a876-c3359b6efeb2)
+
+
+Marketing page View 
+
+![image](https://github.com/Subham1845/Business-Insights-360/assets/63052365/c85e3ee4-1d0e-4b6d-ac7f-e1b266481443)
+
+
+Sales page View 
+
+![image](https://github.com/Subham1845/Business-Insights-360/assets/63052365/da6d8cde-facf-4632-ae70-3f297a19a1b0)
+
+
+Supply Chain page View 
+
+![image](https://github.com/Subham1845/Business-Insights-360/assets/63052365/2ce6e9f8-6f9e-46f0-9e5a-ee0cafb0e8d1)
+
 
 You can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiYmRmYmUyZGMtYWFjOC00ZDdhLTk3NDItNzY4ODA2Zjk2M2Y2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
