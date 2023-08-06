@@ -119,7 +119,19 @@ In Home view, all the views button will be available. User will land on specific
 - Stakeholder Request
 - Support
 
-You can find the full report file here : [Report]()
+Home page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Home.png)
+
+Executive page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Executive%20view.png)
+
+Finance page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Finance%20view.png)
+
+Marketing page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Marketing%20view.png)
+
+Sales page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Sales%20View.png)
+
+Supply Chain page View - (https://github.com/Subham1845/Business-Insights-360/blob/main/Reports%20Screens/Supply%20Chain%20view.png)
+
+You can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiYmRmYmUyZGMtYWFjOC00ZDdhLTk3NDItNzY4ODA2Zjk2M2Y2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Project Outcome
